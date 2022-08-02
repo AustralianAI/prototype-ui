@@ -1,0 +1,24 @@
+{
+  "name": "@australianai/prototype-ui",
+  "version": "0.0.1",
+  "description": "A collection of styled components for use in React Native apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustralianAI/prototype-ui.git"
+  },
+  "keywords": [
+    "react-native",
+    "ui",
+    "components"
+  ],
+  "author": "Australian AI Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AustralianAI/prototype-ui/issues"
+  },
+  "homepage": "https://github.com/AustralianAI/prototype-ui#readme"
+}
